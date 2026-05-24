@@ -24,19 +24,25 @@ Frequency Response is a plot of output voltage or current of a resonance circuit
 frequency response is shown in figure 2.The two additional frequencies  f 1 and f 2 are also indicated which are called half power frequencies. These frequencies locate those points on the curve at which the voltage response is 1/√2 or 0.707 times the maximum value. They are used to measure the band-width of the response curve. This is called the half – power bandwidth of the resonant circuit and is defined as:  ΒW =f2 - f1
 
 **CIRCUIT DIAGRAM:**
+    <img width="1280" height="1053" alt="WhatsApp Image 2026-05-24 at 2 12 45 PM" src="https://github.com/user-attachments/assets/555c6ed2-d83b-4bbc-a94e-3c3d2bc5e321" />
 
 
 
 
 **Model graph:**
+    <img width="1280" height="833" alt="WhatsApp Image 2026-05-24 at 2 12 46 PM" src="https://github.com/user-attachments/assets/f73f67be-d278-4ece-9d1b-1837682db5b7" />
 
 
 
 
 **TABULATION:**
+        <img width="1280" height="720" alt="WhatsApp Image 2026-05-24 at 2 12 46 PM (1)" src="https://github.com/user-attachments/assets/6f2e3a59-cbd2-420e-8029-24cb58bbc371" />
+
 
 
 **Calculation:**
+        <img width="1280" height="837" alt="WhatsApp Image 2026-05-24 at 2 12 46 PM (2)" src="https://github.com/user-attachments/assets/8a8019d6-5a7b-4c4d-8e90-0258ef340404" />
+
 
 
 
@@ -52,7 +58,14 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 7.	Calculate the Q factor
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
 
+**Output:**
+     <img width="1918" height="1020" alt="Screenshot 2026-05-19 180446" src="https://github.com/user-attachments/assets/abc9f70a-0ba0-420d-8cec-df062f5eef64" />
+     <img width="1918" height="1030" alt="Screenshot 2026-05-19 183258" src="https://github.com/user-attachments/assets/7caada8d-cd33-44df-934a-bb753c34712e" />
+
+     
 **Mark split up:**
+    <img width="1280" height="698" alt="WhatsApp Image 2026-05-24 at 2 16 47 PM" src="https://github.com/user-attachments/assets/e49050b4-d681-45b5-b351-48efa2981fad" />
+
 
 **RESULT:**
 
